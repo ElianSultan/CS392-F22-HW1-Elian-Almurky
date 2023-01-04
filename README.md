@@ -1,1 +1,6 @@
-# CS392-F22-HW1-Elian-Almurky
+Elian Sultan Almurky
+Juri Abdullah Almukhizeem
+Norah Khalid binZaid
+Rahaf Saud Alshudokhi
+Rawan Mubarak Alnufaie
+Reem Saud Alshabanat
